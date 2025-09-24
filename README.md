@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/180272664?v=4" width="250" />
+</p>
 # 👋 Hi, I'm Kongpop Janjongkam  
 
 💻 **Front-End Developer** | 🎓 Bachelor of Science in Information Technology (Maejo University)  
