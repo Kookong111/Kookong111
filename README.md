@@ -31,7 +31,7 @@ Skilled in Java (Spring MVC), strong with SQL, HTML/CSS/JS (React.js), I am part
 ---
 
 
-## Tools – Ordered from Skilled to Basic
+## Tech Stack
 
 <p align="left">
   <!-- HTML -->
